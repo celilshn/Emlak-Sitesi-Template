@@ -2,8 +2,8 @@
  ob_start();
  session_start();
 
- $username="root";
- $password="230907855";
+ $username="xxxx";
+ $password="xxxx";
  $sunucu="localhost";
  $database="emlak";
 
